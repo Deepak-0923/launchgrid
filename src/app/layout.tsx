@@ -4,7 +4,7 @@ import Footer from "./components/Footer";
 import { Analytics } from "@vercel/analytics/next";
 
 export const metadata = {
-  title: "LaunchGrid | Freelance Web Development",
+  title: "SmartSiteMaker | Freelance Web Development",
   description: "We design and build modern, high-performance websites for startups and small businesses.",
 };
 

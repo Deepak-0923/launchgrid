@@ -15,7 +15,7 @@ export default function Home() {
         className="flex items-center gap-3 mb-4"
       >
         <FaRocket className="text-blue-600 text-5xl" />
-        <h1 className="text-5xl font-extrabold tracking-tight">LaunchGrid</h1>
+        <h1 className="text-5xl font-extrabold tracking-tight">SmartSiteMaker</h1>
       </motion.div>
 
       {/* Subtext */}
