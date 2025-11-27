@@ -18,7 +18,7 @@ export default function ProjectsPage() {
       link: "https://deepakr-portfolio.vercel.app/",
     },
     {
-      title: "Freelancer LaunchGrid",
+      title: "Freelancer SmartSite Maker",
       desc: "Website launching platform offering free and premium web development & UI/UX design services.",
       image: "/images/launchgrid.webp",
       link: "https://launchgrid.vercel.app/",

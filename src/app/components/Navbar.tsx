@@ -36,7 +36,7 @@ export default function Navbar() {
           className="flex items-center gap-2 text-blue-600 font-bold text-2xl"
         >
           <FaLaptopCode className="text-blue-600" />
-          LaunchGrid
+          SmartSite Maker
         </Link>
 
         {/* 🔹 Desktop Menu */}

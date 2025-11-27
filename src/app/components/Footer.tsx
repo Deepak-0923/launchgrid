@@ -10,7 +10,7 @@ export default function Footer() {
 
         {/* 🔹 Brand */}
         <div className="text-center sm:text-left">
-          <h2 className="text-2xl font-bold text-blue-600">LaunchGrid</h2>
+          <h2 className="text-2xl font-bold text-blue-600">SmartSite Maker</h2>
           <p className="text-sm mt-1">
             Crafting powerful websites with clean design and smooth performance.
           </p>
@@ -18,10 +18,10 @@ export default function Footer() {
           {/* 🔹 Contact Info */}
           <div className="mt-4 flex flex-col gap-2 text-sm">
             <a
-              href="mailto:launchgrid.in@gmail.com"
+              href="mailto:SmartSite Maker.in@gmail.com"
               className="flex items-center gap-2 hover:text-blue-600 transition"
             >
-              <FaEnvelope className="text-blue-500" /> launchgrid.in@gmail.com
+              <FaEnvelope className="text-blue-500" /> SmartSite Maker.in@gmail.com
             </a>
 
             {/* <a
@@ -44,7 +44,7 @@ export default function Footer() {
         {/* 🔹 Social Links */}
         <div className="flex gap-5 text-2xl">
           <Link
-            href="https://www.facebook.com/LaunchGrid"
+            href="https://www.facebook.com/SmartSite Maker"
             target="_blank"
             className="hover:text-blue-600 transition"
           >
@@ -52,7 +52,7 @@ export default function Footer() {
           </Link>
 
           <Link
-            href="https://www.instagram.com/launchgrid.in"
+            href="https://www.instagram.com/SmartSite Maker.in"
             target="_blank"
             className="hover:text-pink-600 transition"
           >
@@ -60,7 +60,7 @@ export default function Footer() {
           </Link>
 
           <Link
-            href="https://www.linkedin.com/company/launchgrid"
+            href="https://www.linkedin.com/company/SmartSite Maker"
             target="_blank"
             className="hover:text-blue-700 transition"
           >
@@ -68,7 +68,7 @@ export default function Footer() {
           </Link>
 
           <Link
-            href="https://github.com/launchgrid"
+            href="https://github.com/SmartSite Maker"
             target="_blank"
             className="hover:text-gray-900 dark:hover:text-white transition"
           >
@@ -79,7 +79,7 @@ export default function Footer() {
 
       {/* 🔹 Bottom Text */}
       <div className="text-center text-sm text-gray-500 dark:text-gray-400 mt-6 border-t border-gray-200 dark:border-gray-800 pt-4">
-        © {new Date().getFullYear()} LaunchGrid. All rights reserved.
+        © {new Date().getFullYear()} SmartSite Maker. All rights reserved.
       </div>
     </footer>
   );

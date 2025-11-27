@@ -31,15 +31,15 @@ export default function ContactPage() {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 0.3 }}
-        href="mailto:launchgrid.in@gmail.com"
+        href="mailto:smartsitemaker.team@gmail.com"
         className="flex items-center gap-2 text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300 mb-10"
       >
-        <FaEnvelope /> launchgrid.in@gmail.com
+        <FaEnvelope /> smartsitemaker.team@gmail.com
       </motion.a>
 
       {/* 🔹 Contact Form (FormSubmit integration) */}
       <motion.form
-        action="https://formsubmit.co/launchgrid.in@gmail.com"
+        action="https://formsubmit.co/smartsitemaker.team@gmail.com"
         method="POST"
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
@@ -48,7 +48,7 @@ export default function ContactPage() {
       >
         {/* Hidden fields for settings */}
         <input type="hidden" name="_captcha" value="false" />
-        <input type="hidden" name="_next" value="https://launchgrid.vercel.app/thank-you" />
+        <input type="hidden" name="_next" value="https://smartsitemaker.vercel.app/thank-you" />
 
         {/* Name */}
         <div className="mb-4">
